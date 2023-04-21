@@ -1,0 +1,10 @@
+{
+  "name": "Nuxt3 App",
+  "dockerComposeFile":"./docker-compose.yml",
+  "service": "app",
+  "workspaceFolder": "/src",
+  "extensions": [
+    "Vue.volar"
+  ],
+  "shutdownAction": "stopCompose"
+}
